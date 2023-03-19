@@ -1,0 +1,7 @@
+# required library for python scripts
+numpy
+# required library
+tqdm
+matplotlib
+pandas
+numpy
