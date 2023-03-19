@@ -1,15 +1,13 @@
 # sorting-algorithms-performance-testing
 
-This repository contains source code to test the performances of four sorting algorithms: heapsort, mergesort, quicksort, std::sort (in C++).
+This repository contains a source code to test the performances of four sorting algorithms: heapsort, mergesort, quicksort, std::sort (in C++).
 
-To run the programme, first set up an environment with a C++ compiler and a Python interpreter.
+To run the program, first set up an environment with a C++ compiler and a Python Interpreter.
 
-After that run these commands in your command line interfaces:
+After that run these commands in your command line interfaces (CLIs):
 
-"git clone https://github.com/letinnghia/sorting-algorithms-performance-testing.git"
+`git clone https://github.com/letinnghia/sorting-algorithms-performance-testing.git`
 
-"pip install -r requirements.txt"
+`pip install -r requirements.txt`
 
-Then go to main.cpp and execute it.
-
-
+Then go to src/main.cpp and execute it.
