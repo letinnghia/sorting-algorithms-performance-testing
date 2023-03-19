@@ -14,7 +14,7 @@
 // Define constants.
 #define DATASETS_PATH "../datasets"
 #define TEST_SIZE 1000000
-#define LOOP_TIMES 100
+#define LOOP_TIMES 10
 
 // Entry point.
 int main()
