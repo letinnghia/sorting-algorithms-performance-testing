@@ -8,6 +8,8 @@ After that run these commands in your command line interfaces (CLIs):
 
 `git clone https://github.com/letinnghia/sorting-algorithms-performance-testing.git`
 
+`cd sorting-algorithms-performance-testing`
+
 `pip install -r requirements.txt`
 
 Then go to src/main.cpp and execute it.
