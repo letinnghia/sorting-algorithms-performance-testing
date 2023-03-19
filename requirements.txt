@@ -1,7 +1,4 @@
 # required libraries
-
-os
-sys
 argparse
 tqdm
 matplotlib
